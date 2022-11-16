@@ -18,3 +18,15 @@ font-family: 'Lobster Two', cursive;
 
 NAV + MAIN: 
 font-family: 'Nunito Sans', sans-serif;
+
+BG
+#F1ECE4
+
+DARK
+#3B3C38
+
+MAIN
+#756457
+
+HIGHLIGHT
+#deab86
